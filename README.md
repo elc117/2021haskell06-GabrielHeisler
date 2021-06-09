@@ -1,0 +1,1 @@
+<h1>Sexta prática com Haskell</h1>
